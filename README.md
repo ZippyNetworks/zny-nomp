@@ -1,8 +1,5 @@
 # BitZeny - Node Open Mining Portal
-[![Join the chat at https://github.com/ROZ-MOFUMOFU-ME/zny-nomp/](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ROZ-MOFUMOFU-ME/zny-nomp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Matrix](https://img.shields.io/matrix/zny-nomp:matrix.mofumofu.me?label=matrix)](https://app.element.io/#/room/#zny-nomp:matrix.mofumofu.me)
-[![Build Status](https://travis-ci.com/ROZ-MOFUMOFU-ME/zny-nomp.svg?branch=main)](https://travis-ci.org/ROZ-MOFUMOFU-ME/zny-nomp) 
-[![CircleCI](https://circleci.com/gh/ROZ-MOFUMOFU-ME/zny-nomp/tree/main.svg?style=svg)](https://circleci.com/gh/ROZ-MOFUMOFU-ME/zny-nomp/tree/main)
+
 
 This is a Yescrypt, YesPoWer, Lyra2REv2, sha256d and more algo mining pool based off of Node Open Mining Portal.
   
@@ -15,13 +12,7 @@ Usage of this software requires abilities with sysadmin, database admin, coin da
 
 ### Community
 Forum
-* join: https://bitzeny.tech/
 
-Wiki
-* https://bitzeny.wiki.fc2.com/
-
-Discord
-* https://discord.gg/xmWd3yy
 
 If your pool uses ZNY-NOMP let us know and we will list your website here.
 
@@ -339,16 +330,7 @@ the `node-stratum-pool` and `node-multi-hashing` modules, and any config files t
 Donations
 -------
  Donations for development are greatly appreciated!
-  * ZNY: ZmnBu9jPKvVFL22PcwMHSEuVpTxFeCdvNv
-  * NUKO: 0xa79bde46faab3c40632604728e9f2165b052581c
-  * KOTO :k1FTuimwDJ8oo3x23cEBLxovxw5Cqq2U1HK
-  * SUSU: SeXbMBaax7NgnTEFEMxin5ycXy9r9CDBot
-  * MONA: mona1qnur6ljkl5pe8w6ql8xfqw4aa38d5xa9q68dxll
-  * BELL: BCVicYRSqKKt1ynJKPrXHA46hUWLrbjR49
-  * SUGAR: sugar1qtwqle9lrr753kxuzqqsh3hv28jl07e3mntx78n
-  * VIPS: VFixsia2EstV4uEEigUXUrknDGsFeWyNhE
-  * KUMA: KHjjZ5misqq45zwhj86WKqV8bzqcYExzyM
-  * BTC: 3C8oCWjVs2sycQcK3ttiPRSKV4AKBhC7xT
+
 
 Credits
 -------
